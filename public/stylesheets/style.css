@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+button {
+  background-color: #00B7FF;
+  border-radius: 5px;
+}
+
+input{
+  border-radius: 5px;
+  height: 20px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.errors{
+  background-color: red;
+  font-style: italic;
+  opacity: 0.5;
+  width: 200px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.success{
+  background-color: rgb(118, 226, 118);
+  font-style: italic;
+  opacity: 0.5;
+  width: 300px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
